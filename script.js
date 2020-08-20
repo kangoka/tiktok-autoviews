@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 if (document.getElementsByName("username").length > 0) {
-    $('input[name="username"]').val('YOUR_USERNAME');
+    $('input[name="username"]').val('YOUR_USERNAME'); //Change YOUR_USERNAME with your username
     setTimeout(function () {
         lp();
     }, 2000);

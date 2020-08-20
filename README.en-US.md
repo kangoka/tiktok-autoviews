@@ -11,7 +11,7 @@
 4. You can change value on https://github.com/kangoka/tiktok-autoviews/blob/3a4e1ddcd9bd1ac749240cafb0c92daf31adba5c/script.js#L54 (default 1000 views)
 5. Goto https://fireliker.com/welcome.php (the script should auto run from here)
 
-## Known issue:
+## Known issues:
 [-] Only recent post that get views\
 [-] If you getting **Error: Unauthorized** then make soure that target profile isn't private
 

@@ -13,8 +13,6 @@
 // @grant        none
 // ==/UserScript==
 
-var myVar;
-
 if (document.getElementsByName("username").length > 0) {
     $('input[name="username"]').val('YOUR_USERNAME');
     setTimeout(function () {

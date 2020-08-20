@@ -13,6 +13,7 @@
 
 ## Known issue:
 [-] Only recent post that get views
+[-] If you getting **Error: Unauthorized** then make soure that target profile isn't private
 
 ## Few things:
 1. Run on VPS/RDP (Windows) to get 24/7 unlimited views

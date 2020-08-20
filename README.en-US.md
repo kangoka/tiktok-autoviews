@@ -1,3 +1,5 @@
+# ONLY FOR DESKTOP
+
 ## Requirements:
 1. Web browser (tested and works perfectly on Chrome ver 84)
 2. Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo

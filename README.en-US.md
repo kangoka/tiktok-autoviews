@@ -12,7 +12,7 @@
 5. Goto https://fireliker.com/welcome.php (the script should auto run from here)
 
 ## Known issue:
-[-] Only recent post that get views
+[-] Only recent post that get views\n
 [-] If you getting **Error: Unauthorized** then make soure that target profile isn't private
 
 ## Few things:

@@ -1,3 +1,5 @@
+# HANYA UNTUK DESKTOP!
+
 ## Persyaratan:
 1. Web browser (sudah di tes di Chrome ver 84 dan berjalan sempurna)
 2. Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo

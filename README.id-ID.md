@@ -12,7 +12,7 @@
 5. Pergi ke https://fireliker.com/welcome.php (harusnya mulai dari sini, scriptnya udah jalan otomatis)
 
 ## Masalah yang diketahui:
-[-] Hanya video terbaru yang viewsnya bertambah
+[-] Hanya video terbaru yang viewsnya bertambah\
 [-] Mental mental atau muter muter jadi views gak nambah, pastiin profilenya gak di private
 
 ## Beberapa hal yang perlu diperhatikan:

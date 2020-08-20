@@ -13,6 +13,7 @@
 
 ## Masalah yang diketahui:
 [-] Hanya video terbaru yang viewsnya bertambah
+[-] Mental mental atau muter muter jadi views gak nambah, pastiin profilenya gak di private
 
 ## Beberapa hal yang perlu diperhatikan:
 1. Jalankan di VPS/RDP (Windows) untuk mendapatkan 24/7 unlimited views

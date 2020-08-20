@@ -1,4 +1,4 @@
-# ONLY FOR DESKTOP
+# ONLY FOR DESKTOP!
 
 ## Requirements:
 1. Web browser (tested and works perfectly on Chrome ver 84)

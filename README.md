@@ -13,7 +13,7 @@
 [-] Only recent post that get views
 
 ## Few things:
-1. Run on VPS/RDP to get 24/7 unlimited views
+1. Run on VPS/RDP (Windows) to get 24/7 unlimited views
 2. Please don't use adblock, give your thanks to https://fireliker.com/
 
 ## Result preview

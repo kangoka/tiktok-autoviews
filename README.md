@@ -5,3 +5,6 @@
 
 ## Python ver
 [**Python**](https://github.com/kangoka/tiktok-autoviews-py)
+
+## Tik Tok Auto Views V2
+[**Python**](https://github.com/kangoka/tiktok-autoviewsv2-py)

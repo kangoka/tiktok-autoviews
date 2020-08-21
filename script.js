@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 if (document.getElementsByName("username").length > 0) {
-    $('input[name="username"]').val('YOUR_USERNAME'); //Change YOUR_USERNAME with your username
+    $('input[placeholder="Username"]').val('YOUR_USERNAME'); //Change YOUR_USERNAME with your username
     setTimeout(function () {
         lp();
     }, 2000);
@@ -35,9 +35,7 @@ function welcome() {
 setTimeout(lp, 13000); 
 
 function lp() {
-    if (document.getElementsByClassName("btn btn-primary").length > 0) {
-        document.getElementsByClassName("btn btn-primary")[0].click();
-    }
+    window.location.href = 'https://fireliker.com/autoViews.php';
 }
 
 setTimeout(changeValue, 2000);

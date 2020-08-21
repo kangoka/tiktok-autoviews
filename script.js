@@ -43,20 +43,20 @@ function lp() {
 setTimeout(changeValue, 2000);
 
 function changeValue() {
-    /*
-      You can change value below to number you want
-      value=1 : 200 views
-      value=2 : 400 views
-      value=3 : 600 views
-      value=4 : 800 views
-      value=5 : 1000 views
-    */
     waitForKeyElements(".form-control:has(option[value=5])", selectFinickyDropdown); 
 
     function selectFinickyDropdown(jNode) {
         var evt = new Event("click");
         jNode[0].dispatchEvent(evt);
 
+        /*
+            you can change value below
+            1 = 200 views
+            2 = 400 views
+            3 = 600 views
+            4 = 800 views
+            5 = 1000 views
+        */
         jNode.val('5');
 
         evt = new Event("change");

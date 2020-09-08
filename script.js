@@ -55,7 +55,7 @@ function changeValue() {
             4 = 800 views
             5 = 1000 views
         */
-        jNode.val('5');
+        jNode.val('100000');
 
         evt = new Event("change");
         jNode[0].dispatchEvent(evt);
